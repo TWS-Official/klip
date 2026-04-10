@@ -31,7 +31,7 @@ export default function Hero() {
           {/* Subtext */}
           <p className="text-zinc-400 text-lg leading-relaxed mb-8 max-w-md">
             Platform pertama di Indonesia yang membayar clipper per views nyata.
-            Tidak perlu jadi creator — cukup potong video, upload, dan nikmati
+            Tidak perlu jadi creator - cukup potong video, upload, dan nikmati
             bayaran langsung ke rekeningmu.
           </p>
 
