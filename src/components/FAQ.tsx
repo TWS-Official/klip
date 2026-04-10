@@ -25,7 +25,7 @@ const faqs = [
   },
   {
     q: "Bagaimana KLIP memverifikasi views saya?",
-    a: "Kamu cukup submit link postingan setelah upload. KLIP menggunakan sistem tracking otomatis yang terhubung dengan API resmi TikTok, Instagram, dan YouTube untuk memverifikasi views secara akurat dan real-time. Proses verifikasi biasanya memakan waktu 24–48 jam setelah submission.",
+    a: "Kamu cukup submit link postingan setelah upload. KLIP menggunakan sistem tracking otomatis yang terhubung dengan API resmi TikTok, Instagram, dan YouTube untuk memverifikasi views secara akurat dan real-time. Proses verifikasi biasanya memakan waktu 24-48 jam setelah submission.",
   },
 ];
 
