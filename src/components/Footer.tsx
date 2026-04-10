@@ -89,7 +89,7 @@ export default function Footer() {
             &copy; 2026 KLIP. All rights reserved.
           </p>
           <p className="text-zinc-600 text-xs">
-            Dibuat dengan ❤️ untuk clipper Indonesia
+            PT Orova Group
           </p>
         </div>
       </div>
