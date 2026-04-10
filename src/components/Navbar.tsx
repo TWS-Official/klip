@@ -42,9 +42,6 @@ export default function Navbar() {
 
         {/* Desktop CTA */}
         <div className="hidden md:flex items-center gap-3">
-          <button className="text-sm text-zinc-400 hover:text-white transition-colors duration-200 px-2">
-            Masuk
-          </button>
           <a href="https://discord.gg/klip" target="_blank" rel="noopener noreferrer" className="px-4 py-2 gradient-bg text-white text-sm font-semibold rounded-lg hover:opacity-90 transition-opacity shadow-lg shadow-orange-500/20">
             Daftar Gratis
           </a>
@@ -93,9 +90,6 @@ export default function Navbar() {
             FAQ
           </a>
           <div className="flex gap-3 pt-2">
-            <button className="flex-1 py-2.5 text-sm text-zinc-300 border border-white/10 rounded-lg hover:bg-white/5 transition-colors">
-              Masuk
-            </button>
             <a href="https://discord.gg/klip" target="_blank" rel="noopener noreferrer" className="flex-1 py-2.5 gradient-bg text-white text-sm font-semibold rounded-lg hover:opacity-90 transition-opacity text-center">
               Daftar Gratis
             </a>
