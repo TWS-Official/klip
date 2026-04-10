@@ -9,7 +9,7 @@ const geistSans = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "KLIP — Klip. Upload. Cuan.",
+  title: "KLIP - Klip. Upload. Cuan.",
   description:
     "Platform untuk para clipper profesional Indonesia. Potong video panjang menjadi klip pendek viral, upload ke TikTok & Reels, dan dibayar per views.",
   icons: {
