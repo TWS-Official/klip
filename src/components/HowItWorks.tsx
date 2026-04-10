@@ -58,7 +58,7 @@ export default function HowItWorks() {
             Semudah 4 Langkah.
           </h2>
           <p className="text-zinc-400 text-lg max-w-xl mx-auto">
-            Tidak perlu pengalaman brand deals atau negosiasi harga — sistem KLIP
+            Tidak perlu pengalaman brand deals atau negosiasi harga - sistem KLIP
             yang mengurus semuanya.
           </p>
         </div>
