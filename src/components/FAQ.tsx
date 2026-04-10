@@ -5,15 +5,15 @@ import { useState } from "react";
 const faqs = [
   {
     q: "Apa itu KLIP?",
-    a: "KLIP adalah platform untuk para clipper profesional Indonesia. Clipper adalah orang yang mengambil video panjang milik creator atau brand, mengeditnya menjadi klip pendek yang menarik, lalu menguploadnya ke TikTok, Instagram Reels, atau YouTube Shorts — dan dibayar berdasarkan views yang dihasilkan.",
+    a: "KLIP adalah platform untuk para clipper profesional Indonesia. Clipper adalah orang yang mengambil video panjang milik creator atau brand, mengeditnya menjadi klip pendek yang menarik, lalu menguploadnya ke TikTok, Instagram Reels, atau YouTube Shorts - dan dibayar berdasarkan views yang dihasilkan.",
   },
   {
     q: "Siapa saja yang bisa jadi clipper di KLIP?",
-    a: "Siapa pun bisa jadi clipper di KLIP — kamu tidak perlu punya channel besar, pengalaman brand deals, atau koneksi khusus. Selama kamu bisa mengedit video dan membuat konten yang menarik, kamu sudah bisa mulai menghasilkan uang.",
+    a: "Siapa pun bisa jadi clipper di KLIP - kamu tidak perlu punya channel besar, pengalaman brand deals, atau koneksi khusus. Selama kamu bisa mengedit video dan membuat konten yang menarik, kamu sudah bisa mulai menghasilkan uang.",
   },
   {
     q: "Bagaimana sistem pembayarannya?",
-    a: "Pembayaran dihitung berdasarkan CPM (Cost Per Mille) — harga per 1.000 views yang terverifikasi. Setiap campaign memiliki CPM yang sudah ditentukan dan transparan dari awal. Earnings kamu terakumulasi otomatis dan bisa dicairkan ke rekening bank atau dompet digital kapan saja minimal saldo Rp 50.000.",
+    a: "Pembayaran dihitung berdasarkan CPM (Cost Per Mille) - harga per 1.000 views yang terverifikasi. Setiap campaign memiliki CPM yang sudah ditentukan dan transparan dari awal. Earnings kamu terakumulasi otomatis dan bisa dicairkan ke rekening bank atau dompet digital kapan saja minimal saldo Rp 50.000.",
   },
   {
     q: "Berapa CPM yang bisa saya dapatkan?",
