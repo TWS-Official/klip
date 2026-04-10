@@ -19,7 +19,7 @@ const advantages = [
     ),
     title: "Campaign Melimpah",
     description:
-      "Pilih dari ratusan campaign aktif setiap hari dari berbagai niche — entertainment, lifestyle, bisnis, kuliner, dan banyak lagi. Selalu ada yang cocok untukmu.",
+      "Pilih dari ratusan campaign aktif setiap hari dari berbagai niche - entertainment, lifestyle, bisnis, kuliner, dan banyak lagi. Selalu ada yang cocok untukmu.",
     tag: "Beragam",
     tagColor: "text-sky-400 bg-sky-400/10 border-sky-400/20",
   },
@@ -67,7 +67,7 @@ export default function Advantages() {
             Platform yang Berpihak<br className="hidden md:block" /> pada Clipper.
           </h2>
           <p className="text-zinc-400 text-lg max-w-lg mx-auto">
-            Dibangun dari nol untuk kebutuhan clipper Indonesia — adil, transparan,
+            Dibangun dari nol untuk kebutuhan clipper Indonesia - adil, transparan,
             dan menguntungkan.
           </p>
         </div>
