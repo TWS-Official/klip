@@ -89,7 +89,7 @@ export default function Footer() {
             &copy; 2026 KLIP. All rights reserved.
           </p>
           <p className="text-zinc-600 text-xs">
-            PT Orova Group
+            PT OROVA GENESIS GROUP
           </p>
         </div>
       </div>
