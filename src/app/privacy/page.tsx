@@ -241,7 +241,7 @@ export default function PrivacyPage() {
       </ul>
       <p>
         Permintaan hak dapat dikirim ke{" "}
-        <a href="mailto:support@getklip.id">support@getklip.id</a> dan akan Kami
+        <a href="mailto:official@joinklip.id">official@joinklip.id</a> dan akan Kami
         tanggapi paling lambat <strong>3x24 jam kerja</strong> setelah
         verifikasi identitas.
       </p>
@@ -295,7 +295,7 @@ export default function PrivacyPage() {
       </p>
       <ul>
         <li>
-          Email: <a href="mailto:support@getklip.id">support@getklip.id</a>
+          Email: <a href="mailto:official@joinklip.id">official@joinklip.id</a>
         </li>
         <li>
           Website: <a href="https://joinklip.id">joinklip.id</a>

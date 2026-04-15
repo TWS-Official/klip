@@ -100,8 +100,8 @@ export default function Footer() {
             <h4 className="text-white font-semibold text-sm mb-4">Kontak</h4>
             <ul className="space-y-2.5 text-sm">
               <li>
-                <a href="mailto:support@getklip.id" className="text-zinc-500 hover:text-zinc-300 transition-colors duration-200">
-                  support@getklip.id
+                <a href="mailto:official@joinklip.id" className="text-zinc-500 hover:text-zinc-300 transition-colors duration-200">
+                  official@joinklip.id
                 </a>
               </li>
               <li className="text-zinc-500 leading-relaxed">

@@ -179,7 +179,7 @@ export default function TermsPage() {
       </p>
       <ul>
         <li>
-          Email: <a href="mailto:support@getklip.id">support@getklip.id</a>
+          Email: <a href="mailto:official@joinklip.id">official@joinklip.id</a>
         </li>
         <li>
           Website: <a href="https://joinklip.id">joinklip.id</a>
