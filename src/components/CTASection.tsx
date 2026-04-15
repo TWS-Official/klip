@@ -20,10 +20,10 @@ export default function CTASection() {
 
               <div className="flex flex-col sm:flex-row gap-3 justify-center">
                 <a href="https://discord.gg/klip" target="_blank" rel="noopener noreferrer" className="px-8 py-4 gradient-bg text-white font-bold rounded-xl hover:opacity-90 transition-opacity text-sm">
-                  Daftar Gratis Sekarang
+                  Get Started
                 </a>
-                <a href="https://discord.gg/klip" target="_blank" rel="noopener noreferrer" className="px-8 py-4 bg-white/5 text-white font-semibold rounded-xl hover:bg-white/10 transition-colors border border-zinc-800 text-sm">
-                  Pelajari Lebih Lanjut
+                <a href="https://app.joinklip.id" target="_blank" rel="noopener noreferrer" className="px-8 py-4 bg-white/5 text-white font-semibold rounded-xl hover:bg-white/10 transition-colors border border-zinc-800 text-sm">
+                  Login
                 </a>
               </div>
 

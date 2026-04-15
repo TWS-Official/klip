@@ -42,8 +42,11 @@ export default function Navbar() {
 
         {/* Desktop CTA */}
         <div className="hidden md:flex items-center gap-3">
+          <a href="https://app.joinklip.id" target="_blank" rel="noopener noreferrer" className="px-4 py-2 text-white text-sm font-semibold rounded-lg border border-white/10 hover:bg-white/5 hover:border-white/20 transition-all duration-200">
+            Login
+          </a>
           <a href="https://discord.gg/klip" target="_blank" rel="noopener noreferrer" className="px-4 py-2 gradient-bg text-white text-sm font-semibold rounded-lg hover:opacity-90 transition-opacity shadow-lg shadow-orange-500/20">
-            Daftar Gratis
+            Get Started
           </a>
         </div>
 
@@ -90,8 +93,11 @@ export default function Navbar() {
             FAQ
           </a>
           <div className="flex gap-3 pt-2">
+            <a href="https://app.joinklip.id" target="_blank" rel="noopener noreferrer" className="flex-1 py-2.5 text-white text-sm font-semibold rounded-lg border border-white/10 hover:bg-white/5 hover:border-white/20 transition-all duration-200 text-center">
+              Login
+            </a>
             <a href="https://discord.gg/klip" target="_blank" rel="noopener noreferrer" className="flex-1 py-2.5 gradient-bg text-white text-sm font-semibold rounded-lg hover:opacity-90 transition-opacity text-center">
-              Daftar Gratis
+              Get Started
             </a>
           </div>
         </div>

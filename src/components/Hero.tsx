@@ -18,7 +18,7 @@ export default function Hero() {
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-orange-400 opacity-75" />
               <span className="relative inline-flex rounded-full h-2 w-2 bg-orange-400" />
             </span>
-            Platform #1 untuk Clipper Indonesia
+            Clip Marketplace #1 di Indonesia
           </div>
 
           {/* Headline */}
@@ -30,22 +30,25 @@ export default function Hero() {
 
           {/* Subtext */}
           <p className="text-zinc-400 text-lg leading-relaxed mb-8 max-w-md">
-            Platform pertama di Indonesia yang membayar clipper per views nyata.
-            Tidak perlu jadi creator - cukup potong video, upload, dan nikmati
-            bayaran langsung ke rekeningmu.
+            KLIP adalah platform clip marketplace yang menghubungkan{" "}
+            <span className="text-white font-semibold">Brand</span> dengan{" "}
+            <span className="text-white font-semibold">Clipper</span> (content
+            creator) di TikTok, Instagram Reels, dan YouTube Shorts. Clipper
+            dibayar per views nyata, Brand mendapatkan distribusi konten
+            berskala besar - semua tercatat transparan.
           </p>
 
           {/* CTAs */}
           <div className="flex flex-wrap gap-3">
             <a href="https://discord.gg/klip" target="_blank" rel="noopener noreferrer" className="px-6 py-3.5 gradient-bg text-white font-semibold rounded-xl hover:opacity-90 transition-all duration-200 text-sm">
-              Mulai Kliping Sekarang
+              Get Started
             </a>
-            <button className="px-6 py-3.5 text-white font-semibold rounded-xl border border-white/10 hover:bg-white/5 hover:border-white/20 transition-all duration-200 flex items-center gap-2 text-sm">
-              Lihat Cara Kerjanya
+            <a href="https://app.joinklip.id" target="_blank" rel="noopener noreferrer" className="px-6 py-3.5 text-white font-semibold rounded-xl border border-white/10 hover:bg-white/5 hover:border-white/20 transition-all duration-200 flex items-center gap-2 text-sm">
+              Login
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
               </svg>
-            </button>
+            </a>
           </div>
         </div>
 

@@ -106,3 +106,53 @@ body {
     box-shadow: 0 0 40px rgba(249, 115, 22, 0.15);
   }
 }
+
+.legal-content h2 {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #ffffff;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  letter-spacing: -0.01em;
+}
+
+.legal-content h3 {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.legal-content p {
+  color: #d4d4d8;
+  line-height: 1.7;
+  font-size: 0.975rem;
+}
+
+.legal-content ul {
+  list-style: disc;
+  padding-left: 1.25rem;
+  color: #d4d4d8;
+  line-height: 1.7;
+  font-size: 0.975rem;
+}
+
+.legal-content ul li {
+  margin-bottom: 0.4rem;
+}
+
+.legal-content strong {
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.legal-content a {
+  color: #fb923c;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.legal-content a:hover {
+  color: #fdba74;
+}
