@@ -231,7 +231,7 @@ export default function DataDeletionPage() {
         </li>
         <li>
           Data Protection Officer (DPO):{" "}
-          <a href="mailto:dpo@joinklip.id">dpo@joinklip.id</a>
+          <a href="mailto:dpo@joinklip.id">official@joinklip.id</a>
         </li>
       </ul>
       <p>
