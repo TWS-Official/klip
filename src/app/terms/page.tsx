@@ -2,8 +2,8 @@ import type { Metadata } from 'next';
 import LegalLayout from '@/components/LegalLayout';
 
 export const metadata: Metadata = {
-  title: 'Syarat & Ketentuan — KLIP',
-  description: 'Syarat & Ketentuan penggunaan platform KLIP untuk Clipper dan Brand. Mengatur peran pengguna, platform fee, pembayaran, kepemilikan konten, dan hukum yang berlaku.',
+  title: 'Syarat & Ketentuan — Kontencom',
+  description: 'Syarat & Ketentuan penggunaan platform Kontencom untuk Clipper dan Brand. Mengatur peran pengguna, platform fee, pembayaran, kepemilikan konten, dan hukum yang berlaku.',
 };
 
 export default function TermsPage() {
@@ -11,10 +11,10 @@ export default function TermsPage() {
     <LegalLayout title="Syarat & Ketentuan" lastUpdated="15 April 2026">
       <p>
         Syarat &amp; Ketentuan ini (&ldquo;<strong>S&amp;K</strong>&rdquo;) merupakan perjanjian yang mengikat antara Anda (&ldquo;<strong>Pengguna</strong>&rdquo;) dengan <strong>PT OROVA GENESIS GROUP</strong>
-        (&ldquo;<strong>KLIP</strong>&rdquo;, &ldquo;<strong>Kami</strong>&rdquo;).
+        (&ldquo;<strong>Kontencom</strong>&rdquo;, &ldquo;<strong>Kami</strong>&rdquo;).
       </p>
       <p>
-        Dengan mendaftar, mengakses, atau menggunakan platform KLIP di <a href="https://joinklip.id">joinklip.id</a>, <a href="https://app.joinklip.id">app.joinklip.id</a>, atau layanan terkait (&ldquo;<strong>Layanan</strong>&rdquo;), Anda
+        Dengan mendaftar, mengakses, atau menggunakan platform Kontencom di <a href="https://kontencom.id">kontencom.id</a>, <a href="https://app.kontencom.id">app.kontencom.id</a>, atau layanan terkait (&ldquo;<strong>Layanan</strong>&rdquo;), Anda
         menyatakan telah membaca, memahami, dan menyetujui seluruh ketentuan di bawah ini.
       </p>
 
@@ -36,7 +36,7 @@ export default function TermsPage() {
           <strong>CPM</strong> (Cost Per Mille): tarif pembayaran per 1.000 views yang berhasil terverifikasi.
         </li>
         <li>
-          <strong>Platform Fee</strong>: komisi KLIP atas transaksi yang difasilitasi.
+          <strong>Platform Fee</strong>: komisi Kontencom atas transaksi yang difasilitasi.
         </li>
       </ul>
 
@@ -53,7 +53,7 @@ export default function TermsPage() {
       <h3>a. Clipper</h3>
       <ul>
         <li>Memproduksi klip original yang mematuhi brief campaign dan pedoman komunitas TikTok, Instagram, dan YouTube.</li>
-        <li>Wajib menggunakan hashtag campaign resmi dan menghubungkan URL klip publik agar views dapat dilacak oleh sistem KLIP.</li>
+        <li>Wajib menggunakan hashtag campaign resmi dan menghubungkan URL klip publik agar views dapat dilacak oleh sistem Kontencom.</li>
         <li>
           <strong>Dilarang</strong> menggunakan bot, paid views, auto-play farm, atau metode artifisial lainnya untuk menggelembungkan views. Pelanggaran mengakibatkan pembatalan earnings dan pemblokiran akun.
         </li>
@@ -67,7 +67,7 @@ export default function TermsPage() {
 
       <h2>4. Platform Fee</h2>
       <p>
-        KLIP mengenakan <strong>platform fee sebesar 20% (dua puluh persen)</strong> yang berlaku bagi kedua sisi marketplace:
+        Kontencom mengenakan <strong>platform fee sebesar 20% (dua puluh persen)</strong> yang berlaku bagi kedua sisi marketplace:
       </p>
       <ul>
         <li>
@@ -82,7 +82,7 @@ export default function TermsPage() {
       <h2>5. Pembayaran, Top-up, dan Pencairan</h2>
       <ul>
         <li>
-          <strong>Top-up Brand</strong>: dilakukan melalui payment gateway berlisensi Bank Indonesia (transfer bank, virtual account, e-wallet, QRIS). Dana masuk ke akun escrow KLIP.
+          <strong>Top-up Brand</strong>: dilakukan melalui payment gateway berlisensi Bank Indonesia (transfer bank, virtual account, e-wallet, QRIS). Dana masuk ke akun escrow Kontencom.
         </li>
         <li>
           <strong>Tracking views</strong>: dilakukan otomatis berdasarkan API resmi platform (TikTok, Instagram, YouTube) dengan jendela verifikasi untuk mencegah bot/fake views.
@@ -91,7 +91,7 @@ export default function TermsPage() {
           <strong>Pencairan Clipper</strong>: minimum pencairan, jadwal, dan metode tersedia di dashboard. Pencairan umumnya diproses dalam 1–3 hari kerja setelah verifikasi.
         </li>
         <li>
-          <strong>Pajak</strong>: Clipper bertanggung jawab atas kewajiban pajak penghasilan (PPh) atas earnings-nya. KLIP dapat memotong dan/atau memungut pajak sesuai peraturan yang berlaku dan memberikan bukti potong.
+          <strong>Pajak</strong>: Clipper bertanggung jawab atas kewajiban pajak penghasilan (PPh) atas earnings-nya. Kontencom dapat memotong dan/atau memungut pajak sesuai peraturan yang berlaku dan memberikan bukti potong.
         </li>
         <li>
           <strong>Refund</strong>: sisa budget campaign yang tidak terpakai dapat direfund ke Brand sesuai kebijakan yang tertera di dashboard, dikurangi biaya administrasi payment gateway bila ada.
@@ -108,7 +108,7 @@ export default function TermsPage() {
           <strong>Brand</strong> memberikan lisensi kepada Clipper atas aset brand (logo, footage, musik) hanya sebatas untuk produksi klip sesuai brief campaign.
         </li>
         <li>Clipper menjamin bahwa klip tidak melanggar hak cipta, merek dagang, hak privasi, atau hak pihak ketiga lainnya, dan bertanggung jawab atas klaim yang timbul karenanya.</li>
-        <li>KLIP memiliki lisensi untuk menampilkan metadata (thumbnail, judul, username, views) pada dashboard, laporan internal, dan materi promosi platform.</li>
+        <li>Kontencom memiliki lisensi untuk menampilkan metadata (thumbnail, judul, username, views) pada dashboard, laporan internal, dan materi promosi platform.</li>
       </ul>
 
       <h2>7. Aktivitas yang Dilarang</h2>
@@ -119,7 +119,7 @@ export default function TermsPage() {
         <li>Menggunakan bot, click-farm, paid views, atau skema artifisial lain untuk menggelembungkan views, likes, atau engagement.</li>
         <li>Memproduksi atau mendistribusikan konten yang melanggar perundang-undangan Republik Indonesia, termasuk SARA, pornografi, judi, narkotika, hoaks, dan konten yang melanggar UU ITE.</li>
         <li>Meniru identitas orang/brand lain, membajak akun pihak lain, atau melakukan phishing.</li>
-        <li>Menjual, mengalihkan, atau menyewakan akun KLIP kepada pihak ketiga tanpa izin tertulis Kami.</li>
+        <li>Menjual, mengalihkan, atau menyewakan akun Kontencom kepada pihak ketiga tanpa izin tertulis Kami.</li>
         <li>Melakukan reverse engineering, scraping masif, atau mengakses Layanan dengan cara yang tidak sah.</li>
         <li>Menggunakan Layanan untuk money laundering, pendanaan terorisme, atau aktivitas ilegal lain sebagaimana diatur UU TPPU dan peraturan terkait.</li>
       </ul>
@@ -133,8 +133,8 @@ export default function TermsPage() {
 
       <h2>9. Batasan Tanggung Jawab</h2>
       <p>
-        Sepanjang diizinkan oleh hukum, tanggung jawab KLIP atas kerugian yang timbul dari penggunaan Layanan dibatasi pada total biaya platform fee yang Anda bayarkan kepada KLIP dalam <strong>3 (tiga) bulan</strong> terakhir sebelum klaim
-        diajukan. KLIP tidak bertanggung jawab atas:
+        Sepanjang diizinkan oleh hukum, tanggung jawab Kontencom atas kerugian yang timbul dari penggunaan Layanan dibatasi pada total biaya platform fee yang Anda bayarkan kepada Kontencom dalam <strong>3 (tiga) bulan</strong> terakhir sebelum klaim
+        diajukan. Kontencom tidak bertanggung jawab atas:
       </p>
       <ul>
         <li>Kerugian tidak langsung, konsekuensial, atau kehilangan peluang.</li>
@@ -144,7 +144,7 @@ export default function TermsPage() {
 
       <h2>10. Ganti Rugi</h2>
       <p>
-        Pengguna setuju untuk membebaskan dan mengganti rugi KLIP, afiliasi, direksi, dan karyawannya dari segala klaim, gugatan, kerugian, atau biaya (termasuk biaya hukum) yang timbul dari pelanggaran S&amp;K ini, pelanggaran hukum, atau
+        Pengguna setuju untuk membebaskan dan mengganti rugi Kontencom, afiliasi, direksi, dan karyawannya dari segala klaim, gugatan, kerugian, atau biaya (termasuk biaya hukum) yang timbul dari pelanggaran S&amp;K ini, pelanggaran hukum, atau
         pelanggaran hak pihak ketiga oleh Pengguna.
       </p>
 
@@ -167,7 +167,7 @@ export default function TermsPage() {
       <h2>13. Ketentuan Lain</h2>
       <ul>
         <li>Bila salah satu ketentuan dinyatakan tidak sah oleh pengadilan, ketentuan lainnya tetap berlaku.</li>
-        <li>Tidak ada hubungan keagenan, kemitraan, atau ketenagakerjaan yang tercipta antara KLIP dengan Pengguna akibat S&amp;K ini.</li>
+        <li>Tidak ada hubungan keagenan, kemitraan, atau ketenagakerjaan yang tercipta antara Kontencom dengan Pengguna akibat S&amp;K ini.</li>
         <li>Pengguna tidak dapat mengalihkan hak/kewajibannya berdasarkan S&amp;K ini tanpa persetujuan tertulis Kami.</li>
       </ul>
 
@@ -179,10 +179,10 @@ export default function TermsPage() {
       </p>
       <ul>
         <li>
-          Email: <a href="mailto:official@joinklip.id">official@joinklip.id</a>
+          Email: <a href="mailto:official@kontencom.id">official@kontencom.id</a>
         </li>
         <li>
-          Website: <a href="https://joinklip.id">joinklip.id</a>
+          Website: <a href="https://kontencom.id">kontencom.id</a>
         </li>
       </ul>
     </LegalLayout>

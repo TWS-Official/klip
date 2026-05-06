@@ -51,7 +51,7 @@ export default function CountdownBanner() {
                 Segera Hadir
               </span>
               <h3 className="text-white text-2xl md:text-3xl font-black leading-snug mb-1">
-                KLIP dibuka <span className="text-orange-400">1 Mei 2026</span>
+                Kontencom dibuka <span className="text-orange-400">1 Mei 2026</span>
               </h3>
               <p className="text-zinc-500 text-sm">
                 Daftarkan dirimu sekarang dan jadilah yang pertama.

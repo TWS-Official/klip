@@ -30,7 +30,7 @@ export default function Hero() {
 
           {/* Subtext */}
           <p className="text-zinc-400 text-lg leading-relaxed mb-8 max-w-md">
-            KLIP adalah platform clip marketplace yang menghubungkan{" "}
+            Kontencom adalah platform clip marketplace yang menghubungkan{" "}
             <span className="text-white font-semibold">Brand</span> dengan{" "}
             <span className="text-white font-semibold">Clipper</span> (content
             creator) di TikTok, Instagram Reels, dan YouTube Shorts. Clipper
@@ -40,10 +40,10 @@ export default function Hero() {
 
           {/* CTAs */}
           <div className="flex flex-wrap gap-3">
-            <a href="https://discord.gg/klip" target="_blank" rel="noopener noreferrer" className="px-6 py-3.5 gradient-bg text-white font-semibold rounded-xl hover:opacity-90 transition-all duration-200 text-sm">
+            <a href="https://discord.gg/kontencom" target="_blank" rel="noopener noreferrer" className="px-6 py-3.5 gradient-bg text-white font-semibold rounded-xl hover:opacity-90 transition-all duration-200 text-sm">
               Get Started
             </a>
-            <a href="https://app.joinklip.id" target="_blank" rel="noopener noreferrer" className="px-6 py-3.5 text-white font-semibold rounded-xl border border-white/10 hover:bg-white/5 hover:border-white/20 transition-all duration-200 flex items-center gap-2 text-sm">
+            <a href="https://app.kontencom.id" target="_blank" rel="noopener noreferrer" className="px-6 py-3.5 text-white font-semibold rounded-xl border border-white/10 hover:bg-white/5 hover:border-white/20 transition-all duration-200 flex items-center gap-2 text-sm">
               Login
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />

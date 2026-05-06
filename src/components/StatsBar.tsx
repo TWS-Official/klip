@@ -113,7 +113,7 @@ export default function StatsBar() {
     <section className="px-6 py-4 relative">
       <div className="max-w-6xl mx-auto">
         <p className="text-zinc-500 text-xs font-semibold tracking-widest uppercase text-center mb-4">
-          Platform KLIP dalam angka
+          Platform Kontencom dalam angka
         </p>
         <div ref={ref} className="rounded-2xl border border-zinc-800 bg-zinc-900/40 overflow-hidden">
           <div className="grid grid-cols-2 md:grid-cols-4">

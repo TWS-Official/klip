@@ -19,10 +19,10 @@ export default function CTASection() {
               </p>
 
               <div className="flex flex-col sm:flex-row gap-3 justify-center">
-                <a href="https://discord.gg/klip" target="_blank" rel="noopener noreferrer" className="px-8 py-4 gradient-bg text-white font-bold rounded-xl hover:opacity-90 transition-opacity text-sm">
+                <a href="https://discord.gg/kontencom" target="_blank" rel="noopener noreferrer" className="px-8 py-4 gradient-bg text-white font-bold rounded-xl hover:opacity-90 transition-opacity text-sm">
                   Get Started
                 </a>
-                <a href="https://app.joinklip.id" target="_blank" rel="noopener noreferrer" className="px-8 py-4 bg-white/5 text-white font-semibold rounded-xl hover:bg-white/10 transition-colors border border-zinc-800 text-sm">
+                <a href="https://app.kontencom.id" target="_blank" rel="noopener noreferrer" className="px-8 py-4 bg-white/5 text-white font-semibold rounded-xl hover:bg-white/10 transition-colors border border-zinc-800 text-sm">
                   Login
                 </a>
               </div>

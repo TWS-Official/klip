@@ -24,7 +24,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
         {/* Logo */}
         <a href="#" className="flex items-center">
-          <Image src="/logo.png" alt="KLIP" width={80} height={32} className="h-8 w-auto object-contain" priority />
+          <Image src="/logo.png" alt="Kontencom" width={80} height={32} className="h-8 w-auto object-contain" priority />
         </a>
 
         {/* Desktop Links */}
@@ -42,10 +42,10 @@ export default function Navbar() {
 
         {/* Desktop CTA */}
         <div className="hidden md:flex items-center gap-3">
-          <a href="https://app.joinklip.id" target="_blank" rel="noopener noreferrer" className="px-4 py-2 text-white text-sm font-semibold rounded-lg border border-white/10 hover:bg-white/5 hover:border-white/20 transition-all duration-200">
+          <a href="https://app.kontencom.id" target="_blank" rel="noopener noreferrer" className="px-4 py-2 text-white text-sm font-semibold rounded-lg border border-white/10 hover:bg-white/5 hover:border-white/20 transition-all duration-200">
             Login
           </a>
-          <a href="https://discord.gg/klip" target="_blank" rel="noopener noreferrer" className="px-4 py-2 gradient-bg text-white text-sm font-semibold rounded-lg hover:opacity-90 transition-opacity shadow-lg shadow-orange-500/20">
+          <a href="https://discord.gg/kontencom" target="_blank" rel="noopener noreferrer" className="px-4 py-2 gradient-bg text-white text-sm font-semibold rounded-lg hover:opacity-90 transition-opacity shadow-lg shadow-orange-500/20">
             Get Started
           </a>
         </div>
@@ -93,10 +93,10 @@ export default function Navbar() {
             FAQ
           </a>
           <div className="flex gap-3 pt-2">
-            <a href="https://app.joinklip.id" target="_blank" rel="noopener noreferrer" className="flex-1 py-2.5 text-white text-sm font-semibold rounded-lg border border-white/10 hover:bg-white/5 hover:border-white/20 transition-all duration-200 text-center">
+            <a href="https://app.kontencom.id" target="_blank" rel="noopener noreferrer" className="flex-1 py-2.5 text-white text-sm font-semibold rounded-lg border border-white/10 hover:bg-white/5 hover:border-white/20 transition-all duration-200 text-center">
               Login
             </a>
-            <a href="https://discord.gg/klip" target="_blank" rel="noopener noreferrer" className="flex-1 py-2.5 gradient-bg text-white text-sm font-semibold rounded-lg hover:opacity-90 transition-opacity text-center">
+            <a href="https://discord.gg/kontencom" target="_blank" rel="noopener noreferrer" className="flex-1 py-2.5 gradient-bg text-white text-sm font-semibold rounded-lg hover:opacity-90 transition-opacity text-center">
               Get Started
             </a>
           </div>

@@ -2,21 +2,21 @@ import type { Metadata } from "next";
 import LegalLayout from "@/components/LegalLayout";
 
 export const metadata: Metadata = {
-  title: "Kebijakan Privasi — KLIP",
+  title: "Kebijakan Privasi — Kontencom",
   description:
-    "Kebijakan Privasi KLIP menjelaskan data yang dikumpulkan, cara penggunaan, penyimpanan, dan hak pengguna sesuai UU PDP Republik Indonesia.",
+    "Kebijakan Privasi Kontencom menjelaskan data yang dikumpulkan, cara penggunaan, penyimpanan, dan hak pengguna sesuai UU PDP Republik Indonesia.",
 };
 
 export default function PrivacyPage() {
   return (
     <LegalLayout title="Kebijakan Privasi" lastUpdated="15 April 2026">
       <p>
-        PT OROVA GENESIS GROUP (&ldquo;<strong>Kami</strong>&rdquo;, &ldquo;<strong>KLIP</strong>&rdquo;)
+        PT OROVA GENESIS GROUP (&ldquo;<strong>Kami</strong>&rdquo;, &ldquo;<strong>Kontencom</strong>&rdquo;)
         menghargai privasi Anda. Kebijakan Privasi ini menjelaskan bagaimana Kami
         mengumpulkan, menggunakan, menyimpan, melindungi, dan membagikan data
-        pribadi Anda ketika Anda menggunakan platform KLIP di{" "}
-        <a href="https://joinklip.id">joinklip.id</a>,{" "}
-        <a href="https://app.joinklip.id">app.joinklip.id</a>, dan layanan terkait
+        pribadi Anda ketika Anda menggunakan platform Kontencom di{" "}
+        <a href="https://kontencom.id">kontencom.id</a>,{" "}
+        <a href="https://app.kontencom.id">app.kontencom.id</a>, dan layanan terkait
         (selanjutnya disebut &ldquo;<strong>Layanan</strong>&rdquo;).
       </p>
       <p>
@@ -33,7 +33,7 @@ export default function PrivacyPage() {
         <li>
           <strong>Clipper</strong> adalah pengguna yang membuat dan mengunggah
           klip video ke TikTok, Instagram Reels, atau YouTube Shorts berdasarkan
-          campaign yang tersedia di KLIP.
+          campaign yang tersedia di Kontencom.
         </li>
         <li>
           <strong>Brand</strong> adalah pengguna yang membuat campaign, melakukan
@@ -151,7 +151,7 @@ export default function PrivacyPage() {
         </li>
         <li>
           <strong>Pelaksanaan perjanjian:</strong> Untuk menjalankan Syarat &
-          Ketentuan KLIP (pembayaran, pencairan, eksekusi campaign).
+          Ketentuan Kontencom (pembayaran, pencairan, eksekusi campaign).
         </li>
         <li>
           <strong>Kewajiban hukum:</strong> Perpajakan, anti pencucian uang, dan
@@ -241,7 +241,7 @@ export default function PrivacyPage() {
       </ul>
       <p>
         Permintaan hak dapat dikirim ke{" "}
-        <a href="mailto:official@joinklip.id">official@joinklip.id</a> dan akan Kami
+        <a href="mailto:official@kontencom.id">official@kontencom.id</a> dan akan Kami
         tanggapi paling lambat <strong>3x24 jam kerja</strong> setelah
         verifikasi identitas.
       </p>
@@ -265,7 +265,7 @@ export default function PrivacyPage() {
 
       <h2>10. Anak di Bawah Umur</h2>
       <p>
-        Layanan KLIP hanya ditujukan bagi pengguna berusia{" "}
+        Layanan Kontencom hanya ditujukan bagi pengguna berusia{" "}
         <strong>minimum 17 (tujuh belas) tahun</strong>. Kami tidak secara
         sengaja mengumpulkan data anak di bawah umur. Bila Anda mengetahui
         adanya akun yang dimiliki anak di bawah umur, mohon laporkan kepada
@@ -295,10 +295,10 @@ export default function PrivacyPage() {
       </p>
       <ul>
         <li>
-          Email: <a href="mailto:official@joinklip.id">official@joinklip.id</a>
+          Email: <a href="mailto:official@kontencom.id">official@kontencom.id</a>
         </li>
         <li>
-          Website: <a href="https://joinklip.id">joinklip.id</a>
+          Website: <a href="https://kontencom.id">kontencom.id</a>
         </li>
       </ul>
     </LegalLayout>

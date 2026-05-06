@@ -61,7 +61,7 @@ export default function Advantages() {
         {/* Header */}
         <div className="text-center mb-16">
           <p className="text-zinc-500 text-sm font-semibold tracking-widest uppercase mb-3">
-            Kenapa KLIP?
+            Kenapa Kontencom?
           </p>
           <h2 className="text-4xl md:text-5xl font-black text-white mb-4">
             Platform yang Berpihak<br className="hidden md:block" /> pada Clipper.

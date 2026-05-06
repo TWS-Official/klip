@@ -4,12 +4,12 @@ import { useState } from "react";
 
 const faqs = [
   {
-    q: "Apa itu KLIP?",
-    a: "KLIP adalah platform untuk para clipper profesional Indonesia. Clipper adalah orang yang mengambil video panjang milik creator atau brand, mengeditnya menjadi klip pendek yang menarik, lalu menguploadnya ke TikTok, Instagram Reels, atau YouTube Shorts - dan dibayar berdasarkan views yang dihasilkan.",
+    q: "Apa itu Kontencom?",
+    a: "Kontencom adalah platform untuk para clipper profesional Indonesia. Clipper adalah orang yang mengambil video panjang milik creator atau brand, mengeditnya menjadi klip pendek yang menarik, lalu menguploadnya ke TikTok, Instagram Reels, atau YouTube Shorts - dan dibayar berdasarkan views yang dihasilkan.",
   },
   {
-    q: "Siapa saja yang bisa jadi clipper di KLIP?",
-    a: "Siapa pun bisa jadi clipper di KLIP - kamu tidak perlu punya channel besar, pengalaman brand deals, atau koneksi khusus. Selama kamu bisa mengedit video dan membuat konten yang menarik, kamu sudah bisa mulai menghasilkan uang.",
+    q: "Siapa saja yang bisa jadi clipper di Kontencom?",
+    a: "Siapa pun bisa jadi clipper di Kontencom - kamu tidak perlu punya channel besar, pengalaman brand deals, atau koneksi khusus. Selama kamu bisa mengedit video dan membuat konten yang menarik, kamu sudah bisa mulai menghasilkan uang.",
   },
   {
     q: "Bagaimana sistem pembayarannya?",
@@ -21,11 +21,11 @@ const faqs = [
   },
   {
     q: "Apakah ada biaya untuk bergabung?",
-    a: "Tidak ada biaya apapun untuk mendaftar dan bergabung di KLIP. Platform ini sepenuhnya gratis untuk clipper. KLIP mengambil komisi kecil dari dana yang dibayarkan brand dan creator, bukan dari penghasilan clipper.",
+    a: "Tidak ada biaya apapun untuk mendaftar dan bergabung di Kontencom. Platform ini sepenuhnya gratis untuk clipper. Kontencom mengambil komisi kecil dari dana yang dibayarkan brand dan creator, bukan dari penghasilan clipper.",
   },
   {
-    q: "Bagaimana KLIP memverifikasi views saya?",
-    a: "Kamu cukup submit link postingan setelah upload. KLIP menggunakan sistem tracking otomatis yang terhubung dengan API resmi TikTok, Instagram, dan YouTube untuk memverifikasi views secara akurat dan real-time. Proses verifikasi biasanya memakan waktu 24-48 jam setelah submission.",
+    q: "Bagaimana Kontencom memverifikasi views saya?",
+    a: "Kamu cukup submit link postingan setelah upload. Kontencom menggunakan sistem tracking otomatis yang terhubung dengan API resmi TikTok, Instagram, dan YouTube untuk memverifikasi views secara akurat dan real-time. Proses verifikasi biasanya memakan waktu 24-48 jam setelah submission.",
   },
 ];
 
@@ -90,8 +90,8 @@ export default function FAQ() {
         {/* Contact note */}
         <p className="text-center text-zinc-500 text-sm mt-8">
           Masih ada pertanyaan?{" "}
-          <a href="https://discord.gg/klip" target="_blank" rel="noopener noreferrer" className="text-orange-400 hover:text-orange-300 transition-colors font-medium">
-            Hubungi tim KLIP →
+          <a href="https://discord.gg/kontencom" target="_blank" rel="noopener noreferrer" className="text-orange-400 hover:text-orange-300 transition-colors font-medium">
+            Hubungi tim Kontencom →
           </a>
         </p>
       </div>
